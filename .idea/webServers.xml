@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4d8b0e9c-b628-4ba7-8001-71e954e7f357" name="enriquegallegoasaitec/RepositoryMvcRest" url="https://github.com/enriquegallegoasaitec/RepositoryMvcRest">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</project>

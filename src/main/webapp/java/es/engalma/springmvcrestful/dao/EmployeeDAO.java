@@ -20,6 +20,10 @@ public class EmployeeDAO {
         Employee emp1 = new Employee("E01", "Smith", "Clerk");
         Employee emp2 = new Employee("E02", "Allen", "Salesman");
         Employee emp3 = new Employee("E03", "Jones", "Manager");
+        Employee emp4 = new Employee("E04", "Ana",   "Nurse");
+        Employee emp5 = new Employee("E05", "Rosa",  "Teacher");
+
+
 
         empMap.put(emp1.getEmpNo(), emp1);
         empMap.put(emp2.getEmpNo(), emp2);

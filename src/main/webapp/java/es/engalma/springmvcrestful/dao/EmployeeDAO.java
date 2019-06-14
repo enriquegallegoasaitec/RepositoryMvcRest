@@ -28,7 +28,8 @@ public class EmployeeDAO {
         empMap.put(emp1.getEmpNo(), emp1);
         empMap.put(emp2.getEmpNo(), emp2);
         empMap.put(emp3.getEmpNo(), emp3);
-
+        empMap.put(emp4.getEmpNo(), emp4);
+        empMap.put(emp5.getEmpNo(), emp5);
     }
 
     public Employee getEmployee(String empNo) {

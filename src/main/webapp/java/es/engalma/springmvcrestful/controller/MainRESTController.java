@@ -15,7 +15,7 @@ public class MainRESTController {
     @Autowired
     private EmployeeDAO employeeDAO;
 
-    @RequestMapping("/hola")
+    @RequestMapping("/")
     @ResponseBody
     public String welcome() {
         System.out.println("Welcome to RestTemplate Example.");
